@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">quiz1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc">A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the fo.. <b><font color="#C67C4E">Read More</font></b></string>
+</resources>
